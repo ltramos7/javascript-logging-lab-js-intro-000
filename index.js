@@ -1,5 +1,5 @@
 console.error("Trying")
 
-console.log("Trying2")
+console.log("Tryig2")
 
 console.warn("Trying3")
